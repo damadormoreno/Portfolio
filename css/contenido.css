@@ -1,0 +1,76 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+
+    position: relative;
+
+    color: #fff;
+    background-color: lightgrey;
+}
+h1{
+  font-family: 'Shadows Into Light', cursive;
+}
+.about a:link, a:visited {
+  color: #fff;
+  background-color: inherit;
+}
+.about a:hover, a:active {
+  color:lightgrey;
+  background-color: inherit;
+}
+#section1
+{
+    height: 500px;
+    padding-top: 50px;
+
+    color: #fff;
+    background-color: #1e88e5;
+}
+#section2
+{
+    height: auto;
+    padding-top: 50px;
+
+    color: #fff;
+    background-color: #673ab7;
+}
+#section3
+{
+    height: auto;
+    padding-top: 50px;
+
+    color: #fff;
+    background-color: #ff9800;
+}
+.fa
+{
+    padding: 10px;
+}
+.barra
+{
+    padding-right: 100px;
+
+    box-shadow: 0 2px 2px 1px rgba(0, 0, 0, .2);
+}
+.imagen-tarjeta
+{
+    max-width: 100%;
+    height: auto;
+}
+.card
+{
+    margin: 10px;
+    padding: 10px;
+
+    color: black;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 1px solid #000;
+    border-radius: 4px;
+}
+.portfolio a{
+  color: blue;
+}
+.contacto{
+  padding: 20px;
+}
